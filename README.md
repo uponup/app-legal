@@ -11,7 +11,7 @@ apps/<app-slug>/privacy.html
 Current:
 
 - [Gramku Privacy Policy](https://uponup.github.io/app-legal/apps/gramku/privacy.html)
-- [Pipe Offset Privacy Policy](https://uponup.github.io/app-legal/apps/pipe-offset/privacy.html) (draft locally; publish with M4 / when user says commit)
+- [Pipe Offset Privacy Policy](https://uponup.github.io/app-legal/apps/pipe-offset/privacy.html)
 
 ## Deploy
 
